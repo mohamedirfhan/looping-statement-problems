@@ -1,2 +1,2 @@
 # looping-statement-problems
-Solved basic problems in looping statement
+Solved basic python problems in looping statement
